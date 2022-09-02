@@ -4,6 +4,8 @@ PAGE (LAST UPDATE: YYYY.MM.DD)
 
 MY TEMPLATES:
 
+https://vadymharmash.github.io/bootstrap/ (LAST UPDATE: 2022.09.03)
+
 https://vadymharmash.github.io/agnecy_landing/ (LAST UPDATE: 2022.08.28)
 
 https://vadymharmash.github.io/bakery/ (LAST UPDATE: 2022.08.26)
